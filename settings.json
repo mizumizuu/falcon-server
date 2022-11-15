@@ -1,0 +1,6 @@
+{
+    "PORT": "3000",
+    "DC_MSG": "!disconnect",
+    "MAX_BYTES": "1024",
+    "FORMAT": "utf-8"
+}
